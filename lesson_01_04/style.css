@@ -1,0 +1,13 @@
+h1 {
+  font-size: 20px;
+  background-color: bisque;
+}
+
+h2,
+div {
+  background-color: coral;
+}
+
+p {
+  color: cornflowerblue;
+}
