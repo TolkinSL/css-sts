@@ -1,0 +1,13 @@
+* {
+  color: darkcyan;
+  outline: 1px solid darkgrey;
+}
+
+p {
+  background-color: orange;
+}
+
+h1 {
+  color: cornflowerblue;
+  font-size: 40px;
+}
