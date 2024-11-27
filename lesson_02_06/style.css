@@ -1,0 +1,12 @@
+* {
+  color: darkcyan;
+  outline: 1px solid darkgrey;
+}
+
+p {
+  background-color: orange;
+}
+
+[data-category='caption'] {
+  background-color: darkgrey;
+}

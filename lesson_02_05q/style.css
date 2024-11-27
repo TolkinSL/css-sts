@@ -1,0 +1,21 @@
+* {
+  color: darkcyan;
+  outline: 1px solid darkgrey;
+}
+
+.boldfont {
+  font-weight: 700;
+}
+
+#mainText {
+  background-color: darkgrey;
+}
+
+#someText {
+  color: coral;
+}
+
+.highlight1,
+.highlight2 {
+  background-color: darkseagreen;
+}
