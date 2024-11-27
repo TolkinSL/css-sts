@@ -1,0 +1,16 @@
+* {
+  color: darkcyan;
+  outline: 1px solid darkgrey;
+}
+
+.highlight {
+  background-color: rgba(177, 219, 63, 0.665);
+}
+
+.boldfont {
+  font-weight: 700;
+}
+
+#mainText {
+  background-color: darkgrey;
+}
