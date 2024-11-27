@@ -1,0 +1,11 @@
+* {
+  color: darkcyan;
+  outline: 1px solid darkgrey;
+}
+
+h1,
+h3,
+p,
+span {
+  background-color: aquamarine;
+}
